@@ -1,4 +1,4 @@
-﻿Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Source,Link,Contact Tracing,Remarks
+Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Source,Link,Contact Tracing,Remarks
 1,12/03/2020,Male,N/A,Imported,Travelled to Turkey,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/, 32 close contacts,Resident in Ghana
 2,12/03/2020,Male,60,Imported,Travelled to Norway,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,107 close contacts,Norwegian
 3,13/03/2020,Female,N/A,Imported,Travelled to US,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,12 close contacts,Ghanaian Student
@@ -6,3 +6,5 @@
 5,14/03/2020,Male,42,Imported,Travelled to Switzaland & Uk,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,N/A,Ghanaian
 6,14/03/2020,Male,41,Imported,Travelled to Germany & Turkey,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,N/A,Ghanaian
 7,17/03/2020,Male,35,Imported,Travelled to France ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+8,18/03/2020,Male,56,Imported,Travelled to UK,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+9,18/03/2020,N/A,33,Imported,Travelled to UAE ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
