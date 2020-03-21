@@ -10,9 +10,9 @@ Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Sou
 9,18/03/2020,N/A,33,Imported,Travelled to UAE ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
 10,19/03/2020,Female,59,Imported,Returned from the UK ,Ashanti ,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
 11,19/03/2020,Male,61,N/A,N/A,Ashanti ,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Lebanese resident in Ghana
-,20/03/2020,Female,29,Local,No travel history,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
-,20/03/2020,Female,34,Local,"No travel history, contact of confirmed case",Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
-,20/03/2020,Male,53,Local,No travel history,Greater Accra (Tema),Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
-,20/03/2020,Male,41,Imported,Travelled from Amsterdam,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
-,20/03/2020,Male,36,Imported,Returned from France ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in Paris"
+12,20/03/2020,Female,29,Local,No travel history,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+13,20/03/2020,Female,34,Local,"No travel history, contact of confirmed case",Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+14,20/03/2020,Male,53,Local,No travel history,Greater Accra (Tema),Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+15,20/03/2020,Male,41,Imported,Travelled from Amsterdam,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+16,20/03/2020,Male,36,Imported,Returned from France ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in Paris"
 ,,,,,,,,,,,
