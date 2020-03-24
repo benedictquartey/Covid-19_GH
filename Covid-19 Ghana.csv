@@ -1,4 +1,4 @@
-Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Source,Link,Contact Tracing,Remarks
+﻿Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Source,Link,Contact Tracing,Remarks
 1,12/03/2020,Male,N/A,Imported,Travelled to Turkey,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/, 32 close contacts,Resident in Ghana
 2,12/03/2020,Male,60,Imported,Travelled to Norway,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,107 close contacts,Norwegian
 3,13/03/2020,Female,N/A,Imported,Travelled to US,Greater Accra,Active,Ministry of Information,https://web.facebook.com/moi.gov.gh/videos/584883425396919/,12 close contacts,Ghanaian Student
@@ -14,7 +14,7 @@ Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Sou
 13,20/03/2020,Female,34,Local,"No travel history, contact of confirmed case",Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
 14,20/03/2020,Male,53,Local,No travel history,Greater Accra (Tema),Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
 15,20/03/2020,Male,41,Imported,Travelled from Amsterdam,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
-16,20/03/2020,Male,36,Imported,Returned from France ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in Paris"
+16,20/03/2020,Male,36,Imported,Returned from France ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in Paris, France"
 17,21/03/2020,Female,55,Imported,Returned from the UK ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in UK"
 18,21/03/2020,Female,84,Imported,Returned from the UK ,Greater Accra,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,"Ghanaian, resident in UK"
 19,21/03/2020,Male,27,Imported,N/A,Ashanti,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Chinese
@@ -23,6 +23,32 @@ Case_ID,Date ,Gender,Age,Transmission Type,Transmission Detail,Region,Status,Sou
 22,22/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
 23,22/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
 24,22/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
-25,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
-26,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
-27,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,N/A
+25,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+26,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+27,23/03/2020,N/A,N/A,N/A,N/A,N/A,Active,Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+28,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+29,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+30,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+31,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+32,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+33,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+34,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+35,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+36,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+37,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+38,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+39,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+40,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+41,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+42,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+43,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+44,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+45,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+46,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+47,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+48,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+49,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+50,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+51,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+52,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
+53,24/03/2020,N/A,N/A,Imported,Returned from affected country ,Greater Accra,Active,Inference from Data provided by Ministry of Information,https://www.ghanahealthservice.org/covid19/,N/A,Ghanaian
