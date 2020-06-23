@@ -1,5 +1,5 @@
 ## Update - 23/06/20
-Information sources have not provided useful details on individual cases for a while now. Therefore as of 23/06/20, case by case data will no longer be updated. However the project [website](https://benedictquartey.com/covid-19) will continue to provide insightful details on Ghana's Covid-19 condition.
+Information sources have not provided useful details on individual cases for a while now. Therefore as of 23/06/20, case by case data will no longer be updated. However the project [website](https://benedictquartey.com/covid-19) will continue to provide updated insightful details on Ghana's Covid-19 condition.
 
 ## Contributing
 
