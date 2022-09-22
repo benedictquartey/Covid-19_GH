@@ -11,14 +11,14 @@ Contributions are welcome and very encouraged, you can contribute in the followi
 
 * Create an Issue stating your change or addition along with a credible source citation.
 
-* Send me a tweet [@Benedict_Q](https://twitter.com/Benedict_Q) or email at benedict.quartey@hotmail.com  with your contribution and source.
+* Send me a tweet [@Benedict_Q](https://twitter.com/Benedict_Q) or email at benedict_quartey@brown.edu with your contribution and source.
 
 
 ## Author
 
 * **Benedict Quartey** 
 
-Kindly acknowledge the creator when possible. If you have any inquiries or need any help, shoot me an email at benedict.quartey@hotmail.com || benedict.quartey@alumni.ashesi.edu.gh
+Kindly acknowledge the creator when possible. If you have any inquiries or need any help, shoot me an email at benedict_quartey@brown.edu
 
 ## License
 This project is licensed under the MIT License. Refer to the LICENSE file for details
